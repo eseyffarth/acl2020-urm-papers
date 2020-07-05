@@ -1,0 +1,866 @@
+[
+  {
+    "Authors": [
+      "Manuel Mager",
+      "Ram\u00f3n Fernandez Astudillo",
+      "Tahira Naseem",
+      "Md Arafat Sultan",
+      "Young-Suk Lee",
+      "Radu Florian",
+      "Salim Roukos"
+    ],
+    "Title": "GPT-too: A Language-Model-First Approach for AMR-to-Text Generation",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.167.html"
+  },
+  {
+    "Authors": [
+      "Kervy Rivas Rojas",
+      "Gina Bustamante",
+      "Arturo Oncevay",
+      "Marco Antonio Sobrevilla Cabezudo"
+    ],
+    "Title": "Efficient Strategies for Hierarchical Text Classification: External Knowledge and Auxiliary Tasks",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.205.html"
+  },
+  {
+    "Authors": [
+      "Elliot Schumacher",
+      "Andriy Mulyar",
+      "Mark Dredze"
+    ],
+    "Title": "Clinical Concept Linking with Contextualized Neural Representations",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.760.html"
+  },
+  {
+    "Authors": [
+      "Kate McCurdy",
+      "Sharon Goldwater",
+      "Adam Lopez"
+    ],
+    "Title": "Inflecting When There's No Majority: Limitations of Encoder-Decoder Neural Networks as Cognitive Models for German Plurals",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.159.html"
+  },
+  {
+    "Authors": [
+      "Elizabeth Salesky",
+      "Eleanor Chodroff",
+      "Tiago Pimentel",
+      "Matthew Wiesner",
+      "Ryan Cotterell",
+      "Alan W Black",
+      "Jason Eisner"
+    ],
+    "Title": "A Corpus for Large-Scale Phonetic Typology",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.415.html"
+  },
+  {
+    "Authors": [
+      "Guy Emerson"
+    ],
+    "Title": "Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.367.html"
+  },
+  {
+    "Authors": [
+      "Qingqing Cao",
+      "Harsh Trivedi",
+      "Aruna Balasubramanian",
+      "Niranjan Balasubramanian"
+    ],
+    "Title": "DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.411.html"
+  },
+  {
+    "Authors": [
+      "Antonios Anastasopoulos",
+      "Graham Neubig"
+    ],
+    "Title": "Should All Cross-Lingual Embeddings Speak English?",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.766.html"
+  },
+  {
+    "Authors": [
+      "Kiant\u00e9 Brantley",
+      "Hal Daum\u00e9 III",
+      "Amr Sharaf"
+    ],
+    "Title": "Active Imitation Learning with Noisy Guidance",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.189.html"
+  },
+  {
+    "Authors": [
+      "Mengzhou Xia",
+      "Antonios Anastasopoulos",
+      "Ruochen Xu",
+      "Yiming Yang",
+      "Graham Neubig"
+    ],
+    "Title": "Predicting Performance for Natural Language Processing Tasks",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.764.html"
+  },
+  {
+    "Authors": [
+      "Huiming Jin",
+      "Liwei Cai",
+      "Yihui Peng",
+      "Chen Xia",
+      "Arya McCarthy",
+      "Katharina Kann"
+    ],
+    "Title": "Unsupervised Morphological Paradigm Completion",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.598.html"
+  },
+  {
+    "Authors": [
+      "Jiaying Hu",
+      "Yan Yang",
+      "Chencai Chen",
+      "liang he",
+      "Zhou Yu"
+    ],
+    "Title": "SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.567.html"
+  },
+  {
+    "Authors": [
+      "Artur Kulmizev",
+      "Vinit Ravishankar",
+      "Mostafa Abdou",
+      "Joakim Nivre"
+    ],
+    "Title": "Do Neural Language Models Show Preferences for Syntactic Formalisms?",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.375.html"
+  },
+  {
+    "Authors": [
+      "Saif M. Mohammad"
+    ],
+    "Title": "Gender Gap in Natural Language Processing Research: Disparities in Authorship and Citations",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.702.html"
+  },
+  {
+    "Authors": [
+      "Guy Emerson"
+    ],
+    "Title": "What are the Goals of Distributional Semantics?",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.663.html"
+  },
+  {
+    "Authors": [
+      "Emily M. Bender",
+      "Alexander Koller"
+    ],
+    "Title": "Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.463.html"
+  },
+  {
+    "Authors": [
+      "Shubham Agarwal",
+      "Trung Bui",
+      "Joon-Young Lee",
+      "Ioannis Konstas",
+      "Verena Rieser"
+    ],
+    "Title": "History for Visual Dialog: Do we really need it?",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.728.html"
+  },
+  {
+    "Authors": [
+      "- Pranav A",
+      "Isabelle Augenstein"
+    ],
+    "Title": "2kenize: Tying Subword Sequences for Chinese Script Conversion",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.648.html"
+  },
+  {
+    "Authors": [
+      "Veronica Lynn",
+      "Niranjan Balasubramanian",
+      "H. Andrew Schwartz"
+    ],
+    "Title": "Hierarchical Modeling for User Personality Prediction: The Role of Message-Level Attention",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.472.html"
+  },
+  {
+    "Authors": [
+      "Yutong Shao",
+      "Ndapa Nakashole"
+    ],
+    "Title": "ChartDialogs: Plotting from Natural Language Instructions",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.328.html"
+  },
+  {
+    "Authors": [
+      "Mikel Artetxe",
+      "Sebastian Ruder",
+      "Dani Yogatama",
+      "Gorka Labaka",
+      "Eneko Agirre"
+    ],
+    "Title": "A Call for More Rigor in Unsupervised Cross-lingual Learning",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.658.html"
+  },
+  {
+    "Authors": [
+      "Jieyu Zhao",
+      "Subhabrata Mukherjee",
+      "Saghar Hosseini",
+      "Kai-Wei Chang",
+      "Ahmed Hassan Awadallah"
+    ],
+    "Title": "Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.260.html"
+  },
+  {
+    "Authors": [
+      "Keita Kurita",
+      "Paul Michel",
+      "Graham Neubig"
+    ],
+    "Title": "Weight Poisoning Attacks on Pretrained Models",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.249.html"
+  },
+  {
+    "Authors": [
+      "Dhivya Chinnappa",
+      "Srikala Murugan",
+      "Eduardo Blanco"
+    ],
+    "Title": "Beyond Possession Existence: Duration and Co-Possession",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.739.html"
+  },
+  {
+    "Authors": [
+      "Yada Pruksachatkun",
+      "Jason Phang",
+      "Haokun Liu",
+      "Phu Mon Htut",
+      "Xiaoyi Zhang",
+      "Richard Yuanzhe Pang",
+      "Clara Vania",
+      "Katharina Kann",
+      "Samuel R. Bowman"
+    ],
+    "Title": "Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.467.html"
+  },
+  {
+    "Authors": [
+      "Shrey Desai",
+      "Cornelia Caragea",
+      "Junyi Jessy Li"
+    ],
+    "Title": "Detecting Perceived Emotions in Hurricane Disasters",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.471.html"
+  },
+  {
+    "Authors": [
+      "Samson Tan",
+      "Shafiq Joty",
+      "Min-Yen Kan",
+      "Richard Socher"
+    ],
+    "Title": "It\u2019s Morphin\u2019 Time! Combating Linguistic Discrimination with Inflectional Perturbations",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.263.html"
+  },
+  {
+    "Authors": [
+      "Frank F. Xu",
+      "Zhengbao Jiang",
+      "Pengcheng Yin",
+      "Bogdan Vasilescu",
+      "Graham Neubig"
+    ],
+    "Title": "Incorporating External Knowledge through Pre-training for Natural Language to Code Generation",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.538.html"
+  },
+  {
+    "Authors": [
+      "Nazneen Fatema Rajani",
+      "Rui Zhang",
+      "Yi Chern Tan",
+      "Stephan Zheng",
+      "Jeremy Weiss",
+      "Aadit Vyas",
+      "Abhijit Gupta",
+      "Caiming Xiong",
+      "Richard Socher",
+      "Dragomir Radev"
+    ],
+    "Title": "ESPRIT: Explaining Solutions to Physical Reasoning Tasks",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.706.html"
+  },
+  {
+    "Authors": [
+      "Yixin Cao",
+      "Ruihao Shui",
+      "Liangming Pan",
+      "Min-Yen Kan",
+      "Zhiyuan Liu",
+      "Tat-Seng Chua"
+    ],
+    "Title": "Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.100.html"
+  },
+  {
+    "Authors": [
+      "Saif M. Mohammad"
+    ],
+    "Title": "Examining Citations of Natural Language Processing Literature",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.464.html"
+  },
+  {
+    "Authors": [
+      "Xinnuo Xu",
+      "Ond\u0159ej Du\u0161ek",
+      "Jingyi Li",
+      "Verena Rieser",
+      "Ioannis Konstas"
+    ],
+    "Title": "Fact-based Content Weighting for Evaluating Abstractive Summarisation",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.455.html"
+  },
+  {
+    "Authors": [
+      "Xiang Dai",
+      "Sarvnaz Karimi",
+      "Ben Hachey",
+      "Cecile Paris"
+    ],
+    "Title": "An Effective Transition-based Model for Discontinuous NER",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.520.html"
+  },
+  {
+    "Authors": [
+      "Shruti Rijhwani",
+      "Shuyan Zhou",
+      "Graham Neubig",
+      "Jaime Carbonell"
+    ],
+    "Title": "Soft Gazetteers for Low-Resource Named Entity Recognition",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.722.html"
+  },
+  {
+    "Authors": [
+      "Aakanksha Naik",
+      "Carolyn Rose"
+    ],
+    "Title": "Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.681.html"
+  },
+  {
+    "Authors": [
+      "Pepa Atanasova",
+      "Jakob Grue Simonsen",
+      "Christina Lioma",
+      "Isabelle Augenstein"
+    ],
+    "Title": "Generating Fact Checking Explanations",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.656.html"
+  },
+  {
+    "Authors": [
+      "Brendan Kennedy",
+      "Xisen Jin",
+      "Aida Mostafazadeh Davani",
+      "Morteza Dehghani",
+      "Xiang Ren"
+    ],
+    "Title": "Contextualizing Hate Speech Classifiers with Post-hoc Explanation",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.483.html"
+  },
+  {
+    "Authors": [
+      "Weixin Liang",
+      "James Zou",
+      "Zhou Yu"
+    ],
+    "Title": "Beyond User Self-Reported Likert Scale Ratings: A Comparison Model for Automatic Dialog Evaluation",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.126.html"
+  },
+  {
+    "Authors": [
+      "Chen Zheng",
+      "Quan Guo",
+      "Parisa Kordjamshidi"
+    ],
+    "Title": "Cross-Modality Relevance for Reasoning on Language and Vision",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.683.html"
+  },
+  {
+    "Authors": [
+      "David Mueller",
+      "Nicholas Andrews",
+      "Mark Dredze"
+    ],
+    "Title": "Sources of Transfer in Multilingual Named Entity Recognition",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.720.html"
+  },
+  {
+    "Authors": [
+      "Shuo Wang",
+      "Zhaopeng Tu",
+      "Shuming Shi",
+      "Yang Liu"
+    ],
+    "Title": "On the Inference Calibration of Neural Machine Translation",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.278.html"
+  },
+  {
+    "Authors": [
+      "Dan Hendrycks",
+      "Xiaoyuan Liu",
+      "Eric Wallace",
+      "Adam Dziedzic",
+      "Rishabh Krishnan",
+      "Dawn Song"
+    ],
+    "Title": "Pretrained Transformers Improve Out-of-Distribution Robustness",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.244.html"
+  },
+  {
+    "Authors": [
+      "Tianlu Wang",
+      "Xi Victoria Lin",
+      "Nazneen Fatema Rajani",
+      "Bryan McCann",
+      "Vicente Ordonez",
+      "Caiming Xiong"
+    ],
+    "Title": "Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.484.html"
+  },
+  {
+    "Authors": [
+      "Mostafa Abdou",
+      "Vinit Ravishankar",
+      "Maria Barrett",
+      "Yonatan Belinkov",
+      "Desmond Elliott",
+      "Anders S\u00f8gaard"
+    ],
+    "Title": "The Sensitivity of Language Models and Humans to Winograd Schema Perturbations",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.679.html"
+  },
+  {
+    "Authors": [
+      "Su Lin Blodgett",
+      "Solon Barocas",
+      "Hal Daum\u00e9 III",
+      "Hanna Wallach"
+    ],
+    "Title": "Language (Technology) is Power: A Critical Survey of \"Bias\" in NLP",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.485.html"
+  },
+  {
+    "Authors": [
+      "Ben Hutchinson",
+      "Vinodkumar Prabhakaran",
+      "Emily Denton",
+      "Kellie Webster",
+      "Yu Zhong",
+      "Stephen Denuyl"
+    ],
+    "Title": "Social Biases in NLP Models as Barriers for Persons with Disabilities",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.487.html"
+  },
+  {
+    "Authors": [
+      "Liangming Pan",
+      "Yuxi Xie",
+      "Yansong Feng",
+      "Tat-Seng Chua",
+      "Min-Yen Kan"
+    ],
+    "Title": "Semantic Graphs for Generating Deep Questions",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.135.html"
+  },
+  {
+    "Authors": [
+      "Maarten Sap",
+      "Saadia Gabriel",
+      "Lianhui Qin",
+      "Dan Jurafsky",
+      "Noah A. Smith",
+      "Yejin Choi"
+    ],
+    "Title": "Social Bias Frames: Reasoning about Social and Power Implications of Language",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.486.html"
+  },
+  {
+    "Authors": [
+      "Xiaochuang Han",
+      "Byron C. Wallace",
+      "Yulia Tsvetkov"
+    ],
+    "Title": "Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.492.html"
+  },
+  {
+    "Authors": [
+      "Yuning Mao",
+      "Liyuan Liu",
+      "Qi Zhu",
+      "Xiang Ren",
+      "Jiawei Han"
+    ],
+    "Title": "Facet-Aware Evaluation for Extractive Summarization",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.445.html"
+  },
+  {
+    "Authors": [
+      "Masaru Isonuma",
+      "Junichiro Mori",
+      "Danushka Bollegala",
+      "Ichiro Sakata"
+    ],
+    "Title": "Tree-Structured Neural Topic Model",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.73.html"
+  },
+  {
+    "Authors": [
+      "Suchin Gururangan",
+      "Ana Marasovi\u0107",
+      "Swabha Swayamdipta",
+      "Kyle Lo",
+      "Iz Beltagy",
+      "Doug Downey",
+      "Noah A. Smith"
+    ],
+    "Title": "Don\u2019t Stop Pretraining: Adapt Language Models to Domains and Tasks",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.740.html"
+  },
+  {
+    "Authors": [
+      "Xinyi Wang",
+      "Yulia Tsvetkov",
+      "Graham Neubig"
+    ],
+    "Title": "Balancing Training for Multilingual Neural Machine Translation",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.754.html"
+  },
+  {
+    "Authors": [
+      "Chao Zhao",
+      "Marilyn Walker",
+      "Snigdha Chaturvedi"
+    ],
+    "Title": "Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.224.html"
+  },
+  {
+    "Authors": [
+      "Daniel Fried",
+      "Jean-Baptiste Alayrac",
+      "Phil Blunsom",
+      "Chris Dyer",
+      "Stephen Clark",
+      "Aida Nematzadeh"
+    ],
+    "Title": "Learning to Segment Actions from Observation and Narration",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.231.html"
+  },
+  {
+    "Authors": [
+      "Mikel Artetxe",
+      "Sebastian Ruder",
+      "Dani Yogatama"
+    ],
+    "Title": "On the Cross-lingual Transferability of Monolingual Representations",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.421.html"
+  },
+  {
+    "Authors": [
+      "Alex Rinaldi",
+      "Jean Fox Tree",
+      "Snigdha Chaturvedi"
+    ],
+    "Title": "Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.2.html"
+  },
+  {
+    "Authors": [
+      "Zhengbao Jiang",
+      "Wei Xu",
+      "Jun Araki",
+      "Graham Neubig"
+    ],
+    "Title": "Generalizing Natural Language Analysis through Span-relation Representations",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.192.html"
+  },
+  {
+    "Authors": [
+      "Ouyu Lan",
+      "Xiao Huang",
+      "Bill Yuchen Lin",
+      "He Jiang",
+      "Liyuan Liu",
+      "Xiang Ren"
+    ],
+    "Title": "Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.193.html"
+  },
+  {
+    "Authors": [
+      "Ahmed Elgohary",
+      "Saghar Hosseini",
+      "Ahmed Hassan Awadallah"
+    ],
+    "Title": "Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.187.html"
+  },
+  {
+    "Authors": [
+      "Maarten Sap",
+      "Eric Horvitz",
+      "Yejin Choi",
+      "Noah A. Smith",
+      "James Pennebaker"
+    ],
+    "Title": "Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.178.html"
+  },
+  {
+    "Authors": [
+      "Jay DeYoung",
+      "Sarthak Jain",
+      "Nazneen Fatema Rajani",
+      "Eric Lehman",
+      "Caiming Xiong",
+      "Richard Socher",
+      "Byron C. Wallace"
+    ],
+    "Title": "ERASER: A Benchmark to Evaluate Rationalized NLP Models",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.408.html"
+  },
+  {
+    "Authors": [
+      "Yang Trista Cao",
+      "Hal Daum\u00e9 III"
+    ],
+    "Title": "Toward Gender-Inclusive Coreference Resolution",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.418.html"
+  },
+  {
+    "Authors": [
+      "Sheena Panthaplackel",
+      "Pengyu Nie",
+      "Milos Gligoric",
+      "Junyi Jessy Li",
+      "Raymond Mooney"
+    ],
+    "Title": "Learning to Update Natural Language Comments Based on Code Changes",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.168.html"
+  },
+  {
+    "Authors": [
+      "Bill Yuchen Lin",
+      "Dong-Ho Lee",
+      "Ming Shen",
+      "Ryan Moreno",
+      "Xiao Huang",
+      "Prashant Shiralkar",
+      "Xiang Ren"
+    ],
+    "Title": "TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.752.html"
+  },
+  {
+    "Authors": [
+      "Roy Schwartz",
+      "Gabriel Stanovsky",
+      "Swabha Swayamdipta",
+      "Jesse Dodge",
+      "Noah A. Smith"
+    ],
+    "Title": "The Right Tool for the Job: Matching Model and Instance Complexities",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.593.html"
+  },
+  {
+    "Authors": [
+      "Arjun Akula",
+      "Spandana Gella",
+      "Yaser Al-Onaizan",
+      "Song-Chun Zhu",
+      "Siva Reddy"
+    ],
+    "Title": "Words Aren't Enough, Their Order Matters: On the Robustness of Grounding Visual Referring Expressions",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.586.html"
+  },
+  {
+    "Authors": [
+      "Aman Madaan",
+      "Amrith Setlur",
+      "Tanmay Parekh",
+      "Barnabas Poczos",
+      "Graham Neubig",
+      "Yiming Yang",
+      "Ruslan Salakhutdinov",
+      "Alan W Black",
+      "Shrimai Prabhumoye"
+    ],
+    "Title": "Politeness Transfer: A Tag and Generate Approach",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.169.html"
+  },
+  {
+    "Authors": [
+      "Silin Gao",
+      "Yichi Zhang",
+      "Zhijian Ou",
+      "Zhou Yu"
+    ],
+    "Title": "Paraphrase Augmented Task-Oriented Dialog Generation",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.60.html"
+  },
+  {
+    "Authors": [
+      "Jiaao Chen",
+      "Zichao Yang",
+      "Diyi Yang"
+    ],
+    "Title": "MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.194.html"
+  },
+  {
+    "Authors": [
+      "Pengcheng Yin",
+      "Graham Neubig",
+      "Wen-tau Yih",
+      "Sebastian Riedel"
+    ],
+    "Title": "TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.745.html"
+  },
+  {
+    "Authors": [
+      "Radhika Gaonkar",
+      "Heeyoung Kwon",
+      "Mohaddeseh Bastan",
+      "Niranjan Balasubramanian",
+      "Nathanael Chambers"
+    ],
+    "Title": "Modeling Label Semantics for Predicting Emotional Reactions",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.426.html"
+  },
+  {
+    "Authors": [
+      "Danish Pruthi",
+      "Mansi Gupta",
+      "Bhuwan Dhingra",
+      "Graham Neubig",
+      "Zachary C. Lipton"
+    ],
+    "Title": "Learning to Deceive with Attention-Based Explanations",
+    "Talk URL": "https://virtual.acl2020.org/paper_main.432.html"
+  },
+  {
+    "Authors": [
+      "Lucy Wang",
+      "Oyvind Tafjord",
+      "Arman Cohan",
+      "Sarthak Jain",
+      "Sam Skjonsberg",
+      "Carissa Schoenick",
+      "Nick Botner",
+      "Waleed Ammar"
+    ],
+    "Title": "SUPP.AI: finding evidence for supplement-drug interactions",
+    "Talk URL": "https://virtual.acl2020.org/paper_demo.86.html"
+  },
+  {
+    "Authors": [
+      "Dong-Ho Lee",
+      "Rahul Khanna",
+      "Bill Yuchen Lin",
+      "Seyeon Lee",
+      "Qinyuan Ye",
+      "Elizabeth Boschee",
+      "Leonardo Neves",
+      "Xiang Ren"
+    ],
+    "Title": "LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Explanation",
+    "Talk URL": "https://virtual.acl2020.org/paper_demo.87.html"
+  },
+  {
+    "Authors": [
+      "Yinfei Yang",
+      "Daniel Cer",
+      "Amin Ahmad",
+      "Mandy Guo",
+      "Jax Law",
+      "Noah Constant",
+      "Gustavo Hernandez Abrego",
+      "Steve Yuan",
+      "Chris Tar",
+      "Yun-hsuan Sung",
+      "Brian Strope",
+      "Ray Kurzweil"
+    ],
+    "Title": "Multilingual Universal Sentence Encoder for Semantic Retrieval",
+    "Talk URL": "https://virtual.acl2020.org/paper_demo.116.html"
+  },
+  {
+    "Authors": [
+      "Saif M. Mohammad"
+    ],
+    "Title": "NLP Scholar: An Interactive Visual Explorer for Natural Language Processing Literature",
+    "Talk URL": "https://virtual.acl2020.org/paper_demo.39.html"
+  },
+  {
+    "Authors": [
+      "Logan Lebanoff",
+      "John Muchovej",
+      "Franck Dernoncourt",
+      "Doo Soon Kim",
+      "Lidan Wang",
+      "Walter Chang",
+      "Fei Liu"
+    ],
+    "Title": "Understanding Points of Correspondence between Sentences for Abstractive Summarization",
+    "Talk URL": "https://virtual.acl2020.org/paper_srw.109.html"
+  },
+  {
+    "Authors": [
+      "Tianyi Luo",
+      "Xingyu Li",
+      "Hainan Wang",
+      "Yang Liu"
+    ],
+    "Title": "Research Replication Prediction Using Weakly Supervised Learning",
+    "Talk URL": "https://virtual.acl2020.org/paper_srw.99.html"
+  },
+  {
+    "Authors": [
+      "G\u00f6zde G\u00fcl Sahin",
+      "Clara Vania",
+      "Ilia Kuznetsov",
+      "Iryna Gurevych"
+    ],
+    "Title": "LINSPECTOR: Multilingual Probing Tasks for Word Representations",
+    "Talk URL": "https://virtual.acl2020.org/paper_cl.1547.html"
+  },
+  {
+    "Authors": [
+      "Jonathan H Clark",
+      "Jennimaria Palomaki",
+      "Vitaly Nikolaev",
+      "Eunsol Choi",
+      "Dan Garrette",
+      "Michael Collins",
+      "Tom Kwiatkowski"
+    ],
+    "Title": "TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages",
+    "Talk URL": "https://virtual.acl2020.org/paper_tacl.1929.html"
+  },
+  {
+    "Authors": [
+      "Shuyan Zhou",
+      "Shruti Rijhwani",
+      "John Wieting",
+      "Jaime Carbonell",
+      "Graham Neubig"
+    ],
+    "Title": "Improving Candidate Generation for Low-resource Cross-lingual Entity Linking",
+    "Talk URL": "https://virtual.acl2020.org/paper_tacl.1906.html"
+  }
+]
